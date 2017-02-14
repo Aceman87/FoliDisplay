@@ -1,2 +1,3 @@
-# FoliDisplay
-An ESP8266 driven SSD1306 based weather and bus timetable display
+#FoliDisplay
+
+Weather display partly forked from: [http://blog.squix.ch] (http://blog.squix.ch)
